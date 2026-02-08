@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\controllers\\allergycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:controllers\\allergycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\dtos\\foodcheckrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:dtos\\foodcheckrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\services\\foodallergenmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:services\\foodallergenmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\food-allergen-prediction-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:food-allergen-prediction-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\controllers\\nearbycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:controllers\\nearbycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\controllers\\emergencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:controllers\\emergencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\dtos\\emergencydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:dtos\\emergencydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\models\\allergyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:models\\allergyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\dtos\\allergydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:dtos\\allergydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\middleware\\basicauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:middleware\\basicauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DishanranChulawansha\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\models\\emergencycontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:models\\emergencycontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|f:\\docz\\work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\migrations\\20260129032054_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDE6DE-FE09-4DF1-0B1C-B15115D7CABD}|food-allergen-prediction-backend.csproj|solutionrelative:migrations\\20260129032054_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FoodAllergenModelService.cs",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Services\\FoodAllergenModelService.cs",
+              "RelativeDocumentMoniker": "Services\\FoodAllergenModelService.cs",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Services\\FoodAllergenModelService.cs",
+              "RelativeToolTip": "Services\\FoodAllergenModelService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwGAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T16:03:42.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "food-allergen-prediction-backend.csproj",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\food-allergen-prediction-backend.csproj",
+              "RelativeDocumentMoniker": "food-allergen-prediction-backend.csproj",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\food-allergen-prediction-backend.csproj",
+              "RelativeToolTip": "food-allergen-prediction-backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-29T16:03:11.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllergyController.cs",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Controllers\\AllergyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AllergyController.cs",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Controllers\\AllergyController.cs",
+              "RelativeToolTip": "Controllers\\AllergyController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:39:02.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwCwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:38:44.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FoodCheckRequest.cs",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\DTOs\\FoodCheckRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\FoodCheckRequest.cs",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\DTOs\\FoodCheckRequest.cs",
+              "RelativeToolTip": "DTOs\\FoodCheckRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T16:05:16.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-29T19:17:00.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FoodController.cs",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "Controllers\\FoodController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:39:35.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-28T13:48:37.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NearbyController.cs",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Controllers\\NearbyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NearbyController.cs",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Controllers\\NearbyController.cs",
+              "RelativeToolTip": "Controllers\\NearbyController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:40:04.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BasicAuthMiddleware.cs",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Middleware\\BasicAuthMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\BasicAuthMiddleware.cs",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Middleware\\BasicAuthMiddleware.cs",
+              "RelativeToolTip": "Middleware\\BasicAuthMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:42:29.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:21:07.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:40:20.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AllergyProfile.cs",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Models\\AllergyProfile.cs",
+              "RelativeDocumentMoniker": "Models\\AllergyProfile.cs",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Models\\AllergyProfile.cs",
+              "RelativeToolTip": "Models\\AllergyProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:40:49.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmergencyController.cs",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Controllers\\EmergencyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmergencyController.cs",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Controllers\\EmergencyController.cs",
+              "RelativeToolTip": "Controllers\\EmergencyController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:39:21.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\DishanranChulawansha\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\DishanranChulawansha\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\build\\Container.targets",
+              "ViewState": "AgIAAJgAAAAAAAAAAABBwNYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-28T14:25:45.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260129032054_init.cs",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Migrations\\20260129032054_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260129032054_init.cs",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Migrations\\20260129032054_init.cs",
+              "RelativeToolTip": "Migrations\\20260129032054_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:20:55.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AllergyDto.cs",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\DTOs\\AllergyDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AllergyDto.cs",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\DTOs\\AllergyDto.cs",
+              "RelativeToolTip": "DTOs\\AllergyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:42:01.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmergencyDto.cs",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\DTOs\\EmergencyDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\EmergencyDto.cs",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\DTOs\\EmergencyDto.cs",
+              "RelativeToolTip": "DTOs\\EmergencyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:42:12.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:41:49.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterDto.cs",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:41:39.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmergencyContact.cs",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Models\\EmergencyContact.cs",
+              "RelativeDocumentMoniker": "Models\\EmergencyContact.cs",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Models\\EmergencyContact.cs",
+              "RelativeToolTip": "Models\\EmergencyContact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:41:17.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "F:\\Docz\\Work\\food-allergen-prediction-backend\\food-allergen-prediction-backend\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:40:36.295Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:883924922:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
