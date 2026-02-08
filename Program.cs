@@ -4,15 +4,16 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// ------------------------
+// Services
+// ------------------------
+
+// Use a single DbContext registration
 builder.Services.AddDbContext<AppDbContext>(opt =>
     opt.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddHttpClient();
 builder.Services.AddControllers();
-
-// PostgreSQL + EF Core
-builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddSingleton<FoodAllergenModelService>();
 
 // Swagger
@@ -30,9 +31,29 @@ builder.Services.AddCors(options =>
 });
 
 var app = builder.Build();
+
+// ------------------------
+// Apply EF Migrations automatically
+// ------------------------
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    db.Database.Migrate(); // This will create missing tables on first deploy
+}
+
+// ------------------------
+// Middleware
+// ------------------------
 app.UseSwagger();
 app.UseSwaggerUI();
 app.UseCors("AllowAll");
-//app.UseMiddleware<BasicAuthMiddleware>();
+// app.UseMiddleware<BasicAuthMiddleware>();
 app.MapControllers();
+
+// ------------------------
+// Listen on Render's port
+// ------------------------
+var port = Environment.GetEnvironmentVariable("PORT") ?? "10000"; // default fallback
+app.Urls.Add($"http://*:{port}");
+
 app.Run();
